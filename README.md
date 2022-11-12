@@ -1,5 +1,4 @@
 # -ISS-Location-and-Meteor-detector-App
-
 This app is intended to locate the ISS and 
 to know the five meteors that is closer to Earth
 ![image](https://user-images.githubusercontent.com/76613993/201482093-7de61be9-c7e3-43a0-bfc6-4afddc0311c2.png)
